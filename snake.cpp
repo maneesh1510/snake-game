@@ -1,6 +1,6 @@
 #include<iostream>
 #include<conio.h>
-#include<stdlib.h>a
+#include<stdlib.h>
 using namespace std;
 int width=20,height=20;
 int x,y,fruitx,fruity,score,gameover,flag;
